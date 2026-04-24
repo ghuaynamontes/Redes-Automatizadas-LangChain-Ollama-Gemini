@@ -31,4 +31,4 @@ pip install crewai[google] langchain-google-genai python-dotenv hvac
 
 
 ## 🧾 Evidencia de funcionamiento
-![Evidencia de funcionamiento](evidencia-funcionamiento.png)
+![Evidencia de funcionamiento](Redes-Automatizadas-LangChain-Ollama-Gemini/evidencia-funcionamiento.png)
