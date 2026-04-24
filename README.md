@@ -1,4 +1,4 @@
-# 🛡️ Redes Automatizadas: Agentes IA con Gemini 2.5, Ollama & Vault
+# 🛡️ Redes Automatizadas: Agentes IA con LangChain, Gemini 2.5, Ollama & Vault
 
 Este proyecto implementa una arquitectura avanzada de **agentes inteligentes** diseñados para realizar diagnósticos técnicos en infraestructuras Windows 11. El sistema utiliza **CrewAI** para la orquestación y permite tres modos de ejecución: Local (Ollama), Cloud (Gemini) y Secure Cloud (Gemini + HashiCorp Vault).
 
